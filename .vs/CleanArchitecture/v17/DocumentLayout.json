@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\application\\common\\interfaces\\identity\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\identity\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\application\\common\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|solutionrelative:application\\common\\models\\paginationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\application\\identity\\searchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|solutionrelative:application\\identity\\searchuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\application\\common\\interfaces\\identity\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|solutionrelative:application\\common\\interfaces\\identity\\icurrentuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DAB4D-26F4-43E7-AE1F-D69CC2B6FD9E}|Domain\\Domain.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\domain\\identity\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DAB4D-26F4-43E7-AE1F-D69CC2B6FD9E}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40DAB4D-26F4-43E7-AE1F-D69CC2B6FD9E}|Domain\\Domain.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40DAB4D-26F4-43E7-AE1F-D69CC2B6FD9E}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0352310-05F6-440B-9AD9-8F54632BC87E}|Infrastructure\\Infrastructure.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0352310-05F6-440B-9AD9-8F54632BC87E}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|c:\\users\\dell\\source\\repos\\cleanarchitecture\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4A2E46-BEF0-486F-8916-60A4C98271CA}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaginationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Models\\PaginationResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Models\\PaginationResponse.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Models\\PaginationResponse.cs",
+              "RelativeToolTip": "Application\\Common\\Models\\PaginationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:50:57.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Identity\\SearchUserRequest.cs",
+              "RelativeDocumentMoniker": "Application\\Identity\\SearchUserRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Identity\\SearchUserRequest.cs",
+              "RelativeToolTip": "Application\\Identity\\SearchUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:46:02.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Interfaces\\Identity\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\Identity\\IUserService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Interfaces\\Identity\\IUserService.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\Identity\\IUserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:32:48.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICurrentUser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Interfaces\\Identity\\ICurrentUser.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\Interfaces\\Identity\\ICurrentUser.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Common\\Interfaces\\Identity\\ICurrentUser.cs",
+              "RelativeToolTip": "Application\\Common\\Interfaces\\Identity\\ICurrentUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T08:32:40.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Domain\\Identity\\Group.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\Group.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Domain\\Identity\\Group.cs",
+              "RelativeToolTip": "Domain\\Identity\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:25:03.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Domain\\Identity\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Identity\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Domain\\Identity\\User.cs",
+              "RelativeToolTip": "Domain\\Identity\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAzwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:24:54.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:18:32.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CleanArchitecture\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T07:17:50.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
